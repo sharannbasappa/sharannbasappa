@@ -1,7 +1,7 @@
 - 👋 i am working as an intern in Innodatatics
 - 👀 interested in Data Science, Data analyst 
 - 🌱Currently learning Data Science,AI,DL,RL and also working on NLP Live Project
-- 💞certified from IBM ML with Python, proffational course on Data Science fom 360DigiTMG
+- 💞certified from IBM, ML with Python,Data Science with R and Python fom 360DigiTMG
 - 📫sharanabasappa36@gmail.com
 
 <!---
